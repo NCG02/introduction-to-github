@@ -1,0 +1,132 @@
+<html>
+    <p><strong>Carlos Noe Castan Grijalva. ISC 4°</strong></p>
+<head>
+<meta hhtp-equiv="content-type" content="text/html; charset=utf-8"/>
+<title> Dodge Challenger SRT 2023 </title>
+<style type="text/css">
+    table, 
+    tr, 
+    th, 
+    td {
+        border:1px solid#000; 
+        border-collapse: collapse; 
+        padding: 5px;
+    }
+    
+    h1#titulo {
+        color:teal;
+    }
+    
+    strong {
+        color:red;
+    }
+    
+    span.destacado {
+        color:orange;
+    }
+    
+    h2#subtitulo {
+        color:blue;
+    }
+    
+    span.especial {
+        color:purple;
+    }
+    
+    a {
+        color:red;
+    }
+
+    a em {
+        color: blue;
+    }
+    
+    div#adicional p {
+        color:olive;
+    }
+
+    div#adicional span#especial {
+        color: fuchsia;
+    }
+    
+    div#adicional a {
+        color: green;
+    }
+
+    caption {
+        color: blue;
+    }
+    
+    td {
+        color: green;
+    }
+
+    td strong {
+        color: orange;
+    }
+
+    th {
+        color: red;
+    }
+
+    th.especial {
+        color: orange;
+    }
+</style>
+</head>
+
+<body> 
+    <h1 id="titulo">DODGE CHALLENGER SRT 2023</h1>
+
+    <P>El Dodge Challenger SRT 2023 es un automóvil deportivo de alto rendimiento fabricado por Dodge. La sigla <strong>"SRT"</strong> significa <strong>"Street and Racing Technology"</strong>, 
+        y representa la versión de alto rendimiento del Challenger, un modelo de auto que ha sido un ícono en el mundo de los muscle cars.
+    </P>
+
+    <h2 id="subtitulo">Motor, velocidad y precio </h2>
+
+    <table summary="Descripción de la tabla y su contenido">
+        <caption>Características de Challenger vs Mustang </caption>
+        <thead>
+            <tr>
+                <th scope="col"></th>
+                <th scope="col" class="especial">CHALLENGER SRT</th>
+                <th scope="col" class="especial">MUSTANG GT500</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <th scope="row" class="especial">MOTOR</th>
+                <td>Motor V8 sobrealimentado de 6.2 litros.</td>
+                <td>Motor V8 sobrealimentado de 5.2 litros.</td>
+            </tr>
+            <tr>
+                <th scope="row">VELOCIDAD</th>
+                <td>Aproximadamente 199 mph (320 km/h)</td>
+                <td>Aproximadamente 180 mph (290 km/h)</td>
+            </tr>
+            <tr>
+                <th scope="row">PRECIO</th>
+                <td>El precio del Dodge Challenger SRT Hellcat 2023 varía dependiendo de la configuración y los opcionales seleccionados. El precio base comienza alrededor de $65,000 USD.<strong>.</strong></td>                
+                <td>El precio del Ford Mustang Shelby GT500 2023 también puede variar según el equipamiento y las opciones seleccionadas. En general, el precio base para el Mustang Shelby GT500 2023 es de aproximadamente de alrededor de $80,000 a $85,000 USD.</td>
+            </tr>
+        </tbody>
+    </table>
+    <div id="adicional1">
+        <p>CONCLUSIÓN. Si tu prioridad es la potencia bruta y un diseño retro icónico, el Dodge Challenger SRT Hellcat 2023 puede ser la mejor opción. Ofrece una gran cantidad de potencia, especialmente en la versión Redeye, y un estilo clásico que apela a los fanáticos de los muscle cars tradicionales.
+
+            <span>Si prefieres un coche con tecnología avanzada para el manejo en pista y un enfoque moderno en el rendimiento, el Ford Mustang Shelby GT500 2023 es una excelente opción. Su tecnología de suspensión y enfoque en el rendimiento en pista lo hacen ideal para quienes valoran la precisión en la conducción y un diseño más contemporáneo.</span></p>
+        <p>A pesar de todos los problemas que podemos llegar a tener,<span id="especial"> hay que ser CONSTANTES.</span></p>
+        <p>DISCIPLINA, RESPONSABILIDAD Y CONSTANCIA = ÉXITO</p>
+        <p> <a href="https://www.dodge.com/mx/"> Sitio Web oficial de DODGE</a></p>
+    </div>
+    <img
+        class="img"
+        src="C:\Users\noeca\Desktop\Proyecto final desarrollo de aplicaciones cliente-servidor\challengersrt.jpg"  width="600" height="300"
+    />
+    <h1>Review</h1>
+    <video width="640" height="360" controls>
+        <source src="C:\Users\noeca\Desktop\Proyecto final desarrollo de aplicaciones cliente-servidor\2023 Dodge Challenger SRT Demon 170 Exhaust Sound and Launch.mp4" type="video/mp4">
+    </video>
+</body>
+</html>
